@@ -1,2 +1,1 @@
-# drawonpython
-Draw on python by my codes
+You can draw on Python. 
